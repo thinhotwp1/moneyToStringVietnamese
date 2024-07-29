@@ -1,3 +1,10 @@
 # moneyToStringVietnamese
 
-💰 Truyền vào 1 string tiền dạng số sẽ chuyển thành string dạng chữ. Ví dụ khi nhập 1.234.567 sẽ chuyển thành " Một triệu hai trăm ba mươi tư nghìn năm trăm sáu mươi bảy đồng" 💸
+💰 Convert from number to string of value money, use rercusive. Example: Input: 1.234.567 => Output: "Một triệu hai trăm ba mươi tư nghìn năm trăm sáu mươi bảy đồng" (Vietnamese) or "One million two hundred thirty-four thousand five hundred sixty-seven dong"
+
+
+
+
+
+
+💸
